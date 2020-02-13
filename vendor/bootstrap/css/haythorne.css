@@ -1,0 +1,649 @@
+/* This stylesheet was created for the Haythorne Secondary website by Zothani Zulu */
+body {
+  background: #dddbdb;
+  font-family: Tahoma;
+}
+.navbar-dark{
+  
+}
+#main{
+  margin-top: -30px;
+}
+.navbar-brand {
+  padding: 0px;
+  margin: 0px;
+  font-size: 19px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.footer{
+  clear: both;
+}
+.system-head{
+  text-align: center;
+  font-size: 30px;
+}
+#logo {
+  border-radius: 7px;
+  font-style: bold;
+}
+.signature{
+  font-family: Freestyle Script;
+  font-size: 30px;
+}
+.contributors{
+  font-family: Freestyle Script;
+  font-size: 25px;
+  line-height: 1.2em;
+}
+
+#developer-manual{
+  font-family: Freestyle Script;
+  font-size: 25px;
+}
+.manual-content{
+  list-style: none;
+}
+#motto{
+  font-family: Freestyle Script;
+  font-size: 25px;
+}
+
+#header {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 38px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 39px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-bottom-right-radius: 4px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  width: 380px;
+}
+
+#blue{
+  padding: 5px;
+}
+
+header {
+  margin-top: 110px;
+}
+
+#author {
+  color: rgb(94, 94, 94);
+}
+#banner-text{
+  font-family: Bodoni MT ;
+  letter-spacing: 0.03em;
+}
+
+#notices {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 25px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 84px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#dashboard {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 25px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#find-us {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 25px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+#welcome {
+  color: #065ca1;
+  font-family: Lucida Calligraphy;
+  font-size: 31px;
+  line-height: 1.5em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#content {
+  padding-top: 0px;
+  opacity: 0.85;
+  padding-left: 5px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 20px;
+  background: white;
+}
+#home-welcome{
+  opacity: 0.85;
+  border-top-right-radius: 11px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 22px;
+  background: white;
+}
+#contact {
+  padding-top: 0px;
+  opacity: 0.85;
+  padding-left: 5px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 15px;
+  background-color: white;
+}
+
+#news-header {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 38px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#news {
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+#past-papers{
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+#manual-header {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 38px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#manual {
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+#resources-first{
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 25px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#resources-body{
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+
+#classnotes-header{
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 25px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#classnotes-body{
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+
+#queries-header {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 38px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#queries-body {
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+
+.notices {
+  opacity: 0.85;
+  font-size: 20px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 10px;
+  background: white;
+}
+
+.notices ul{
+  list-style: none;
+}
+.dashboard ul{
+  list-style: none;
+}
+.dashboard {
+  opacity: 0.85;
+  font-size: 20px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 10px;
+  background: white;
+}
+
+.find-us{
+  opacity: 0.85;
+  font-size: 20px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 10px;
+  background: white;
+}
+#toggle a {
+  font-size: 25px;
+}
+
+#toggle a:hover {
+  color: yellow;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#important-dates{
+  font-size: 17px;
+}
+#event-color{
+  color: blue;
+}
+#resources-header {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 25px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#dates-header {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 38px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+
+#dates {
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+
+#announcement-header {
+  background: rgb(7, 115, 161);
+  opacity: 0.85;
+  font-size: 38px;
+  color: yellow;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+  padding-bottom: 6px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  text-align: center;
+}
+#announcements{
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+
+#announcements-box{
+  opacity: 0.85;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  padding: 27px;
+  background-color: white;
+}
+.box{
+  border: 2px solid;
+  width: 65%;
+  padding-left: 40px;
+}
+
+#developer{
+  color: white;
+}
+
+#contributors{
+  list-style: none;
+}
+
+#user-admin{
+  font-size: 35px;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: -5px;
+  margin-bottom: 5px;
+}
+
+/*Student Login*/
+
+#sign-up-image {
+  text-align: center;
+}
+
+#logout {
+  text-align: right;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.form-signin .form-signin-heading, .form-signin .checkbox {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.form-signin .checkbox {
+  font-weight: normal;
+}
+
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+
+.form-signin input[type="name"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/* Screen size queries */
+
+@media(max-width:764px) {
+  #welcome{
+    font-size: 17px;
+  }
+  #main{
+    margin-top: -20px;
+  }
+  #banner-text{
+    font-size: 27px;
+    font-family: Bodoni MT ;
+    letter-spacing: 0.03em;
+   
+  }
+  #feedback-message{
+    font-size: 20px;
+    padding-left: 5px;
+  }
+  #header {
+    background: rgb(7, 115, 161);
+    text-align: center;
+    opacity: 0.85;
+    font-size: 25px;
+    width: 100%;
+    color: yellow;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    margin-left: 0px;
+    padding-left: 5px;
+    padding-bottom: 6px;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+  }
+  #content {
+    padding-top: 0px;
+    opacity: 0.85;
+    padding-left: 5px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 10px;
+    background: white;
+  }
+  #announcement-header {
+    background: rgb(7, 115, 161);
+    opacity: 0.85;
+    font-size: 25px;
+    color: yellow;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding-left: 5px;
+    padding-bottom: 6px;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+    text-align: center;
+  }
+  #home-welcome{
+    padding-top: 0px;
+    opacity: 0.85;
+    padding-left: 5px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 10px;
+    background: white;
+  }
+  #announcements-box{
+    opacity: 0.85;
+    font-size: 19px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 27px;
+    background-color: white;
+  }
+  #news-header {
+    background: rgb(7, 115, 161);
+    opacity: 0.85;
+    font-size: 25px;
+    color: yellow;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding-left: 5px;
+    padding-bottom: 6px;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+    text-align: center;
+  }
+  #news {
+    opacity: 0.85;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 27px;
+    background: white;
+  }
+  #notices{
+    margin-top: 15px;
+    font-size: 17px;
+  }
+  .notices {
+    padding-top: 0px;
+    opacity: 0.85;
+    font-size: 15px;
+    padding-left: 5px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 10px;
+    background: white;
+  }
+  #dashboard{
+    margin-top: 15px;
+    font-size: 17px;
+  }
+  .dashboard ul{
+    list-style: none;
+    padding: 3px;
+  }
+  .dashboard {
+    padding-top: 0px;
+    opacity: 0.85;
+    font-size: 15px;
+    padding-left: 5px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 10px;
+    background: white;
+  }
+  .box{
+    border: 2px solid;
+    width: 100%;
+    padding-left: 3px;
+    font-size: 11px;
+  }
+  .notices ul{
+    list-style: none;
+    padding: 3px;
+  }
+  .find-us {
+    padding-top: 0px;
+    opacity: 0.85;
+    font-size: 15px;
+    padding-left: 5px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 10px;
+    background: white;
+  }
+  #toggle a {
+    font-size: 19px;
+  }
+  #dates-header {
+    background: rgb(7, 115, 161);
+    opacity: 0.85;
+    font-size: 26px;
+    color: yellow;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding-left: 5px;
+    padding-bottom: 6px;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+    text-align: center;
+  }
+  #dates {
+    opacity: 0.85;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+    padding: 10px;
+    background-color: white;
+  }
+  #student-name{
+    font-size: 19px;
+  }
+
+  .signature{
+    font-family: Freestyle Script;
+    font-size: 23px;
+  }
+}
